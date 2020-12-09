@@ -1,0 +1,2 @@
+# lianzhi.io
+my blog
